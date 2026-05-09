@@ -36,3 +36,7 @@ I am passionate about technology, productivity systems, remote work, and digital
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/joseaviladev
 - Email: j.l.a.r2014.com@gmail.com
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joseaviladev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseaviladev&layout=compact)
