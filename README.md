@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm José Ávila
 
-<!--
-**joseaviladev/joseaviladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Technician | Virtual Assistant | SEO Writer | EN-ES Translator
 
-Here are some ideas to get you started:
+I am passionate about technology, productivity systems, remote work, and digital tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Technical Support
+- Virtual Assistance
+- SEO Content Writing
+- English-Spanish Translation
+- Social Media Management
+- Digital Productivity
+
+## 🛠️ Tools & Technologies
+- Windows
+- Git & GitHub
+- WordPress
+- Canva
+- Microsoft Office
+- SEO Tools
+- AI Tools
+
+## 📚 Currently Learning
+- Git & GitHub
+- Automation
+- Web Development
+- AI Productivity Systems
+
+## 🌎 Open to
+- Remote Opportunities
+- Freelance Projects
+- Full-Time Jobs
+- Collaborations
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/joseaviladev
+- Email: j.l.a.r2014.com@gmail.com
